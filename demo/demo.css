@@ -1,0 +1,134 @@
+/* Media */
+/*
+ * mainmenu
+ */
+
+.layout {
+  max-width: 1000px;
+}
+
+.t-theme {
+  padding-left: 30px;
+}
+
+
+.layout__left {
+  float: left;
+  width: 25%;
+}
+
+.layout__right {
+  float: right;
+  box-sizing: border-box;
+  width: 75%;
+  padding: 0 15px;
+}
+
+.mainmenu {
+  margin-top: 20px;
+}
+
+.mainmenu--bottom {
+  margin-bottom: 2.0625rem;
+}
+
+.mainmenu__ul {
+  display: flex;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.mainmenu--vertical .mainmenu__ul {
+  flex-flow: column nowrap;
+}
+
+.mainmenu--bottom .mainmenu__ul {
+  display: block;
+  text-align: center;
+}
+
+.mainmenu__list {
+  position: relative;
+  margin-left: 1.875rem;
+}
+
+.mainmenu__list:hover > ul[class*="sub"] {
+  display: block;
+}
+
+.mainmenu--vertical .mainmenu__list {
+  margin-bottom: 10px;
+}
+
+.mainmenu--bottom .mainmenu__list {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.mainmenu--bottom .mainmenu__list:first-child {
+  margin-left: 0;
+}
+
+.mainmenu__list--sub-1, .mainmenu__list--sub-2, .mainmenu__list--sub-3, .mainmenu__list--sub-4 {
+  margin: 0;
+}
+
+.mainmenu__link {
+  font-size: 1.125rem;
+  display: block;
+  transition: color .3s ease-out;
+  text-transform: inherit;
+  text-decoration: none;
+  color: inherit;
+}
+
+.mainmenu--bottom .mainmenu__link {
+  font-size: 1rem;
+  color: #b4b4b4;
+}
+
+.mainmenu__link:hover {
+  text-decoration: underline;
+  color: orange;
+}
+
+.mainmenu__sub-1 {
+  top: 30px;
+  left: 0;
+  list-style: none;
+  background-color: orange;
+}
+
+.mainmenu__link--sub-1 {
+  font-size: 96%;
+}
+
+.mainmenu__sub-2 {
+  top: 0;
+  left: 150px;
+  background-color: orange;
+}
+
+.mainmenu__link--sub-2 {
+  font-size: 90%;
+}
+
+.mainmenu__sub-3 {
+  top: 0;
+  left: 150px;
+  background-color: orange;
+}
+
+.mainmenu__link--sub-3 {
+  font-size: 86%;
+}
+
+.mainmenu__sub-1, .mainmenu__sub-2, .mainmenu__sub-3, .mainmenu__sub-4 {
+  position: absolute;
+  z-index: 1;
+  display: none;
+  list-style: none;
+  min-width: 150px;
+  padding: .3rem;
+}

@@ -1,0 +1,10 @@
+/*----------  Color definitions  ----------*/
+
+$pallete:
+"65, 139, 206",
+"61, 127, 186",
+"255, 255, 255";
+
+$pallete-one: nth($pallete, 1);
+$pallete-two: nth($pallete, 2);
+$pallete-three: nth($pallete, 3);

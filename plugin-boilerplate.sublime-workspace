@@ -1,0 +1,2242 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mul",
+				"multifb__btn"
+			],
+			[
+				"svg",
+				"svg-sprite/"
+			],
+			[
+				"jq",
+				"jq-boilerplate	jQuery Plugin Boilerplate"
+			],
+			[
+				"ls",
+				"letter-spacing"
+			],
+			[
+				"hel",
+				"helpmdl	helpmdl"
+			],
+			[
+				"mg",
+				"mg	mdl-grid"
+			],
+			[
+				"block",
+				"block-item/"
+			],
+			[
+				"ready",
+				"ready	document.ready - $(function(){})"
+			],
+			[
+				"ii",
+				"iife	immediately-invoked function expression"
+			],
+			[
+				"mch",
+				"mc:ht	mdl-cell--hide-tablet"
+			],
+			[
+				"conte",
+				"content-img/"
+			],
+			[
+				"pop",
+				"popup_bg"
+			],
+			[
+				"local",
+				"localStorage〔variable〕"
+			],
+			[
+				"ho",
+				"hostname"
+			],
+			[
+				"class",
+				"classList"
+			],
+			[
+				"innerH",
+				"innerHTML"
+			],
+			[
+				"path",
+				"path_logo〔variable〕"
+			],
+			[
+				"message",
+				"message_load〔variable〕"
+			],
+			[
+				"mesa",
+				"message_load〔variable〕"
+			],
+			[
+				"messag",
+				"message_load"
+			],
+			[
+				"sele",
+				"selected"
+			],
+			[
+				"firs",
+				"firstElementChild"
+			],
+			[
+				"ch",
+				"children"
+			],
+			[
+				"p",
+				"p	<p>"
+			],
+			[
+				"getJ",
+				"getjson	$.getjson()"
+			],
+			[
+				"cl",
+				"cl	console.log"
+			],
+			[
+				"qs",
+				"qs	querySelector"
+			],
+			[
+				"click",
+				"clickCellFormVerb"
+			],
+			[
+				"insert",
+				"insert_str"
+			],
+			[
+				"inser",
+				"insert_str"
+			],
+			[
+				"boo",
+				"book_title"
+			],
+			[
+				"addCl",
+				"addClass"
+			],
+			[
+				"loca",
+				"localStorage"
+			],
+			[
+				"miw",
+				"min-width"
+			],
+			[
+				"fo",
+				"foreach	<?php foreach (…) … <?php endforeach ?>"
+			],
+			[
+				"img_pre",
+				"img_pre/"
+			],
+			[
+				"sess",
+				"$sessionData〔variable〕"
+			],
+			[
+				"fee",
+				"feedback-buttons.scss"
+			],
+			[
+				"testimg",
+				"testimg/"
+			],
+			[
+				"testi",
+				"testimg/"
+			],
+			[
+				"mc",
+				"mc:m	mdl-cell--middle"
+			],
+			[
+				"md",
+				"md:t	media-tablet"
+			],
+			[
+				"mcc",
+				"mc:c	mdl-cell--N-col"
+			],
+			[
+				"mdmt",
+				"mdmt	media-maxtablet"
+			],
+			[
+				"m",
+				"md:mt	media-mintablet"
+			],
+			[
+				"mcct",
+				"mc:ct	mdl-cell--N-col-tablet"
+			],
+			[
+				"border",
+				"border_top_width〔variable〕"
+			],
+			[
+				"sc",
+				"scrollBy"
+			],
+			[
+				"fn",
+				"fn	function"
+			],
+			[
+				"print",
+				"printContent"
+			],
+			[
+				"tim",
+				"timer"
+			],
+			[
+				"clas",
+				"classList"
+			],
+			[
+				"sub",
+				"subject"
+			],
+			[
+				"encod",
+				"encode_arr"
+			],
+			[
+				"sei",
+				"serializeArray	.serializeArray()"
+			],
+			[
+				"input",
+				"input"
+			],
+			[
+				"plac",
+				"placeholder	Attr"
+			],
+			[
+				"user",
+				"userid"
+			],
+			[
+				"mbr",
+				"mb:r	mdl-button--raised"
+			],
+			[
+				"mb",
+				"mb:r	mdl-button--raised"
+			],
+			[
+				"bo",
+				"bower_components/"
+			],
+			[
+				"cal",
+				"calculate"
+			],
+			[
+				"size",
+				"size_context"
+			],
+			[
+				"do",
+				"document"
+			],
+			[
+				"q",
+				"quickly	quickly-script"
+			],
+			[
+				"child",
+				"children"
+			],
+			[
+				"infi",
+				"infi_table"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"ea",
+				"each	.each()"
+			],
+			[
+				"first",
+				"first_letter"
+			],
+			[
+				"item",
+				"item_title"
+			],
+			[
+				"php",
+				"php	<?php … ?>"
+			],
+			[
+				"getT",
+				"gettype"
+			],
+			[
+				"read",
+				"ready	document.ready - $(function(){})"
+			],
+			[
+				"back",
+				"background-size"
+			],
+			[
+				"mdm",
+				"md:mt	media-mintablet"
+			],
+			[
+				"mcor",
+				"mc:orp	mdl-cell--order-N-phone"
+			],
+			[
+				"ma",
+				"mainmenu"
+			],
+			[
+				"show",
+				"showMenu〔function〕"
+			],
+			[
+				"get",
+				"getAttribute"
+			],
+			[
+				"appen",
+				"appendControls"
+			],
+			[
+				"cons",
+				"controls_clone"
+			],
+			[
+				"conto",
+				"controls_clone"
+			],
+			[
+				"contro",
+				"controls"
+			],
+			[
+				"fonts",
+				"fonts/"
+			],
+			[
+				"che",
+				"checked"
+			],
+			[
+				"st",
+				"settAtribute"
+			],
+			[
+				"height",
+				"height"
+			],
+			[
+				"appe",
+				"appendChild"
+			],
+			[
+				"pare",
+				"parentElement"
+			],
+			[
+				"rep",
+				"replaceDom"
+			],
+			[
+				"reve",
+				"reviews_block"
+			],
+			[
+				"rev",
+				"reviews_block"
+			],
+			[
+				"colu",
+				"column"
+			],
+			[
+				"chil",
+				"children"
+			],
+			[
+				"top",
+				"top_element〔variable〕"
+			],
+			[
+				"pso",
+				"position"
+			],
+			[
+				"ap",
+				"appendChild"
+			],
+			[
+				"cr",
+				"createElement"
+			],
+			[
+				"fow",
+				"forwards"
+			],
+			[
+				"v",
+				"visibility"
+			],
+			[
+				"anim",
+				"animation"
+			],
+			[
+				"lin",
+				"line-through"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"align",
+				"align-self"
+			],
+			[
+				"f",
+				"fantasy.accordionMenu.js"
+			],
+			[
+				"cla",
+				"classList"
+			],
+			[
+				"a_ver",
+				"a_verb2"
+			],
+			[
+				"clear",
+				"clearInterval〔function〕"
+			],
+			[
+				"data",
+				"data-noun"
+			],
+			[
+				"pos",
+				"postfix"
+			],
+			[
+				"type",
+				"type_tense"
+			],
+			[
+				"text",
+				"textContent"
+			],
+			[
+				"ne",
+				"nextElementSibling"
+			],
+			[
+				"respo",
+				"response"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"togg",
+				"toggleClass〔function〕"
+			],
+			[
+				"tempa",
+				"templates"
+			],
+			[
+				"on",
+				"onclick"
+			],
+			[
+				"backc",
+				"background-color"
+			],
+			[
+				"ce",
+				"cel	createElement"
+			],
+			[
+				"window",
+				"window_width〔variable〕"
+			],
+			[
+				"tab",
+				"tablePopupPosition"
+			],
+			[
+				"win",
+				"window_width〔variable〕"
+			],
+			[
+				"wind",
+				"window_width"
+			],
+			[
+				"innerW",
+				"innerWidth〔variable〕"
+			],
+			[
+				"table",
+				"table__td"
+			],
+			[
+				"has",
+				"hasClass	.hasClass()"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "gulpfile.js",
+			"settings":
+			{
+				"buffer_size": 5124,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 917,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": ".gitignore",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"last_filter": "set css",
+		"selected_items":
+		[
+			[
+				"set css",
+				"Set Syntax: CSS"
+			],
+			[
+				"run",
+				"Run CSScomb"
+			],
+			[
+				"set javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"set scss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"set html",
+				"Set Syntax: HTML"
+			],
+			[
+				"set htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"set js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"set php",
+				"Set Syntax: PHP"
+			],
+			[
+				"set ht",
+				"Set Syntax: HTML (Tcl)"
+			],
+			[
+				"set ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"set jade",
+				"Set Syntax: Jade"
+			],
+			[
+				"seth ",
+				"Set Syntax: HTML"
+			],
+			[
+				"setj",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"css",
+				"Run CSScomb"
+			],
+			[
+				"au",
+				"Autoprefix CSS"
+			],
+			[
+				"set ",
+				"Set Syntax: SASS"
+			],
+			[
+				"seth",
+				"Set Syntax: HTML"
+			],
+			[
+				"a",
+				"Autoprefix CSS"
+			],
+			[
+				"set h",
+				"Set Syntax: HTML"
+			],
+			[
+				"SET JA",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"r",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"run ",
+				"Run CSScomb"
+			],
+			[
+				"jade",
+				"Set Syntax: Jade"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"set jva",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"set java",
+				"Set Syntax: Java"
+			],
+			[
+				"set j",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"SET HTML",
+				"Set Syntax: HTML"
+			],
+			[
+				"runc",
+				"Run CSScomb"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"run cs",
+				"Run CSScomb"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"set pla",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"set tex",
+				"Set Syntax: TeX"
+			],
+			[
+				"set text",
+				"Set Syntax: Textile"
+			],
+			[
+				"set hm",
+				"Set Syntax: HTML"
+			],
+			[
+				"set javs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"",
+				"Autoprefix CSS"
+			],
+			[
+				"run c",
+				"Run CSScomb"
+			],
+			[
+				"setjavs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"set pug",
+				"Set Syntax: Pug"
+			],
+			[
+				"REMO",
+				"Package Control: Remove Package"
+			],
+			[
+				"set hmt",
+				"Set Syntax: HTML"
+			],
+			[
+				"sset scss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"tag",
+				"Tag: Auto-Format Tags on Selection"
+			],
+			[
+				"tag indent",
+				"Tag: Lint Selection or Document"
+			],
+			[
+				"setpug",
+				"Set Syntax: Pug"
+			],
+			[
+				"setjade",
+				"Set Syntax: Jade"
+			],
+			[
+				"set",
+				"Set Syntax: SASS"
+			],
+			[
+				"Snippet: mbt",
+				"Snippet: Comment - Block style comment"
+			],
+			[
+				"tra",
+				"Run eCSStractor"
+			],
+			[
+				"tract",
+				"Run eCSStractor"
+			],
+			[
+				"set hml",
+				"Set Syntax: HTML"
+			],
+			[
+				"set javscript",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"set javascr",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"set  javascri",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"set javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"set javascript",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"set  javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"set s",
+				"Set Syntax: SASS"
+			],
+			[
+				"seth m",
+				"Set Syntax: HTML"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"cs",
+				"Run CSScomb"
+			],
+			[
+				"Snippet: l",
+				"Snippet: layout"
+			],
+			[
+				"re",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"rei",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"c",
+				"Run CSScomb"
+			],
+			[
+				"set cs",
+				"Set Syntax: CSS3"
+			],
+			[
+				"seth h",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"reg",
+				"Reg Replace: My RegEx Macro"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"ii",
+				"Snippet: text-justify:inter-ideograph"
+			],
+			[
+				"isnta",
+				"Package Control: Install Package"
+			],
+			[
+				"set sass",
+				"Set Syntax: SASS"
+			],
+			[
+				"ci",
+				"Package Control: Install Package"
+			],
+			[
+				"autosave",
+				"Toggle AutoSave: all files"
+			],
+			[
+				"Autosave",
+				"Toggle AutoSave: all files"
+			],
+			[
+				"cssco",
+				"Run CSScomb"
+			],
+			[
+				"remove p",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 472.0
+	},
+	"console":
+	{
+		"height": 186.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/E/projects/plugin-boilerplate"
+	],
+	"file_history":
+	[
+		"/E/projects/plugin-boilerplate/package.json",
+		"/E/OpenServer/domains/assempattern.local/package.json",
+		"/E/projects/plugin-boilerplate/dist/js/jquery.plugin-name.js",
+		"/E/projects/plugin-boilerplate/scss/jquery.pluginName.scss",
+		"/E/projects/plugin-boilerplate/demo/index.html",
+		"/E/projects/plugin-boilerplate/bower.json",
+		"/E/projects/plugin-boilerplate/.bowerrc",
+		"/E/projects/bem_modules/nice-popup/jquery.nice-popup.js",
+		"/C/Users/devel/Downloads/fantasy.nicePopup (1).js",
+		"/E/projects/bem_modules/multifeedback/gulpfile.js",
+		"/C/Users/devel/AppData/Local/Google/Chrome/User Data/Default/User StyleSheets/Custom.css",
+		"/E/projects/bem_modules/multifeedback/assets/ic_phone_iphone_24px.svg",
+		"/E/projects/bem_modules/multifeedback/assets/out/css/sprite.css",
+		"/E/projects/bem_modules/multifeedback/assets/ic_record_voice_over_24px.svg",
+		"/E/projects/bem_modules/multifeedback/assets/ic_phone_24px.svg",
+		"/E/projects/bem_modules/multifeedback/assets/ic_message_24px.svg",
+		"/E/projects/bem_modules/multifeedback/assets/ic_mail_outline_24px.svg",
+		"/E/projects/bem_modules/multifeedback/assets/ic_chat_bubble_outline_24px.svg",
+		"/E/projects/bem_modules/multifeedback/assets/ic_chat_24px.svg",
+		"/E/projects/bem_modules/multifeedback/assets/out/css/svg/sprite.css-915b9a46.svg",
+		"/E/projects/bem_modules/multifeedback/demo/index.html",
+		"/E/projects/bem_modules/multifeedback/tz.txt",
+		"/E/projects/bem_modules/multifeedback/index.html",
+		"/E/projects/bem_modules/multifeedback/app/material-design-icons/sprites/svg-sprite/svg-sprite-alert.svg",
+		"/E/projects/bem_modules/multifeedback/app/material-design-icons/sprites/svg-sprite/svg-sprite-alert.html",
+		"/E/projects/bem_modules/multifeedback/app/material-design-icons/sprites/svg-sprite/svg-sprite-action.svg",
+		"/E/projects/bem_modules/multifeedback/tz,txt",
+		"/E/OpenServer/domains/dreamcamp-html.local/gulpfile.js",
+		"/E/projects/bem_modules/multifeedback/dist/css/jquery.multimenu.css",
+		"/E/projects/bem_modules/multifeedback/app/material-design-icons/gulpfile.babel.js",
+		"/E/projects/bem_modules/multifeedback/app/material-design-icons/notification/svg/production/ic_adb_18px.svg",
+		"/E/projects/bem_modules/multifeedback/app/material-design-icons/index.js",
+		"/E/projects/bem_modules/multimenu/tz,txt",
+		"/E/projects/bem_modules/multimenu/scss/_color-definitions.scss",
+		"/E/projects/bem_modules/multimenu/scss/_variables.scss",
+		"/E/projects/bem_modules/multimenu/index.html",
+		"/E/projects/bem_modules/multimenu/scss/jquery.multimenu.scss",
+		"/E/projects/bem_modules/multimenu/gulpfile.js",
+		"/E/projects/bem_modules/multimenu/dist/css/jquery.multimenu.css",
+		"/E/projects/bem_modules/multimenu/dist/css/jquery.multimenu.min.css",
+		"/C/Users/devel/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/E/projects/bem_modules/multimenu/scss/style.scss",
+		"/E/OpenServer/domains/parilki1.local/templates/jpattern/gulpfile.js",
+		"/C/Users/devel/AppData/Local/Temp/scp12182/public_html/templates/shkafminsk/index.php",
+		"/C/Users/devel/AppData/Local/Temp/scp12136/public_html/.htaccess",
+		"/E/projects/bem_modules/multimenu/js/app.js",
+		"/C/Users/devel/AppData/Local/Temp/scp08942/public_html/templates/shkafminsk/index.php",
+		"/E/projects/bem_modules/multimenu/bower.json",
+		"/E/projects/bem_modules/multimenu/scss/js/app.js",
+		"/E/projects/bem_modules/multimenu/.bowerrc",
+		"/C/Users/devel/AppData/Local/Temp/scp18947/public_html/templates/shkafminsk/index.php",
+		"/C/Users/devel/AppData/Local/Temp/scp02156/www/stroy.by/.htaccess",
+		"/C/Users/devel/AppData/Local/Temp/scp57777/public_html/tz.txt",
+		"/C/Users/devel/AppData/Local/Temp/scp55064/htdocs/templates/lesok/component.php",
+		"/C/Users/devel/AppData/Local/Temp/scp27187/public_html/.htaccess",
+		"/C/Users/devel/AppData/Local/Temp/scp10532/www/stroy.by/templates/stroy/index.php",
+		"/C/Users/devel/AppData/Local/Temp/scp06532/www/stroy.by/libraries/joomla/uri/uri.php",
+		"/E/OpenServer/domains/stroy.local/configuration.php",
+		"/E/OpenServer/domains/stroy.local/.htaccess",
+		"/C/Users/devel/AppData/Local/Temp/scp03319/www/stroy.by/templates/stroy/index.php",
+		"/C/Users/devel/AppData/Local/Temp/scp31653/www/dking.by/LICENSE.txt",
+		"/C/Users/devel/AppData/Local/Temp/scp31647/www/dking.by/index.php",
+		"/C/Users/devel/AppData/Local/Temp/scp55271/public_html/templates/shkafminsk/index.php",
+		"/C/Users/devel/AppData/Local/Temp/scp25751/www/dking.by/templates/dking/index.php",
+		"/C/Users/devel/AppData/Local/Temp/scp28567/public_html/configuration.php",
+		"/C/Users/devel/AppData/Local/Temp/scp53507/www/dking.by/configuration.php",
+		"/C/Users/devel/AppData/Local/Temp/scp51990/www/dking.by/libraries/joomla/uri/uri.php",
+		"/C/Users/devel/AppData/Local/Temp/scp21790/public_html/.htaccess",
+		"/C/Users/devel/AppData/Local/Temp/scp23145/public_html/libraries/joomla/uri/uri.php",
+		"/C/Users/devel/AppData/Local/Temp/scp41003/www/dking.by/templates/dking/index.php",
+		"/C/Users/devel/AppData/Local/Temp/scp03922/www/stroy.by/.htaccess",
+		"/C/Users/devel/AppData/Local/Temp/scp56494/public_html/templates/shkafminsk/index.php",
+		"/C/Users/devel/AppData/Local/Temp/scp29397/public_html/configuration.php",
+		"/C/Users/devel/AppData/Local/Temp/scp19923/public_html/templates/shkafminsk/index.php",
+		"/C/Users/devel/AppData/Local/Temp/scp12704/public_html/libraries/joomla/uri/uri.php",
+		"/C/Users/devel/AppData/Local/Temp/scp24214/public_html/.htaccess",
+		"/E/OpenServer/domains/shkafminsk.local/templates/shkafminsk/index.php",
+		"/E/OpenServer/domains/shkafminsk.local/templates/shkafminsk/html/mod_menu/default.php",
+		"/E/OpenServer/domains/dreamcamp.local/templates/jpattern/html/mod_menu/default.php",
+		"/E/OpenServer/domains/dreamcamp.local/templates/jpattern/html/mod_menu/default_separator.php",
+		"/E/OpenServer/domains/dreamcamp.local/templates/jpattern/html/mod_menu/default_heading.php",
+		"/E/OpenServer/domains/dreamcamp.local/templates/jpattern/html/mod_menu/default_url.php",
+		"/E/OpenServer/domains/dreamcamp.local/templates/jpattern/html/mod_menu/default_component.php",
+		"/E/OpenServer/domains/parilki1.local/templates/jpattern/html/com_content/category/blog.php",
+		"/E/OpenServer/domains/parilki1.local/templates/jpattern/blocks/pagination/pagination.pug",
+		"/E/OpenServer/domains/shkafminsk.local/.htaccess",
+		"/E/OpenServer/domains/shkafminsk.local/libraries/joomla/uri/uri.php",
+		"/C/Users/devel/AppData/Local/Temp/scp45023/public_html/templates/shkafminsk/index.php",
+		"/C/Users/devel/AppData/Local/Temp/scp51851/public_html/libraries/joomla/uri/uri.php",
+		"/C/Users/devel/AppData/Local/Temp/scp55258/public_html/libraries/joomla/document/renderer/html/head.php",
+		"/C/Users/devel/AppData/Local/Temp/scp45557/public_html/.htaccess",
+		"/C/Users/devel/AppData/Local/Temp/scp48302/public_html/configuration.php",
+		"/C/Users/devel/AppData/Local/Temp/scp44295/public_html/libraries/joomla/document/html/renderer/head.php",
+		"/E/OpenServer/domains/dking.local/libraries/joomla/document/html/renderer/head.php",
+		"/E/OpenServer/domains/latest-joomla.local/libraries/joomla/document/renderer/html/head.php",
+		"/E/OpenServer/domains/shkafminsk.local/libraries/joomla/document/renderer/html/head.php",
+		"/E/OpenServer/domains/aqua-dom.local/libraries/joomla/document/html/renderer/head.php",
+		"/E/OpenServer/domains/dreamcamp.local/templates/jpattern/index.php",
+		"/E/OpenServer/domains/dreamcamp.local/templates/jpattern/dist/css/adaptive-menu.default.css",
+		"/E/OpenServer/domains/dreamcamp.local/templates/jpattern/blocks/mainmenu/_mainmenu.scss",
+		"/E/OpenServer/domains/parilki1.local/templates/jpattern/dist/css/style.css",
+		"/E/projects/mdl/material-design-lite/src/typography/demo.css",
+		"/C/Users/devel/AppData/Local/Temp/scp46030/www/tdstroy.by/templates/shop-brus/js/common.js",
+		"/C/Users/devel/AppData/Local/Temp/scp52765/www/tdstroy.by/templates/shop-brus/js/fantasy.jumpMenu.js",
+		"/E/projects/mdl/material-design-lite/src/typography/_typography.scss",
+		"/C/Users/devel/AppData/Local/Temp/scp54700/www/tdstroy.by/templates/shop-brus/index.php",
+		"/E/projects/bem_modules/gallery_float/style.scss",
+		"/C/Users/devel/AppData/Local/Temp/scp23413/public_html/templates/alekspro/js/call.js",
+		"/C/Users/devel/AppData/Local/Temp/scp18773/public_html/templates/alekspro/index.php",
+		"/C/Users/devel/AppData/Local/Temp/scp17339/public_html/templates/alekspro/css/template.css",
+		"/E/projects/bem_modules/gallery_float/style.css",
+		"/E/projects/bem_modules/gallery_float/index.html",
+		"/C/Users/devel/AppData/Local/Temp/scp23827/public_html/templates/alekspro/js/template.js",
+		"/C/Users/devel/AppData/Local/Temp/scp03579/public_html/templates/alekspro/css/template.css",
+		"/C/Users/devel/AppData/Local/Temp/scp07978/public_html/templates/alekspro/index.php",
+		"/C/Users/devel/AppData/Local/Temp/scp56082/public_html/templates/shkafminsk/js/common.js",
+		"/C/Users/devel/AppData/Local/Temp/scp01727/public_html/templates/shkafminsk/js/common.js",
+		"/C/Users/devel/AppData/Local/Temp/scp02239/public_html/templates/shkafminsk/index.php",
+		"/E/OpenServer/domains/grey-media.local/style.css",
+		"/E/OpenServer/domains/grey-media.local/style.scss",
+		"/E/OpenServer/domains/grey-media.local/index.html",
+		"/C/Users/devel/AppData/Local/Temp/scp56035/public_html/templates/shkafminsk/js/call.js",
+		"/C/Users/devel/AppData/Local/Temp/scp59754/public_html/wp-content/themes/GREYMedia/style.css",
+		"/C/Users/devel/AppData/Local/Temp/scp21645/public_html/wp-content/themes/GREYMedia/functions.php",
+		"/C/Users/devel/AppData/Local/Temp/scp20758/public_html/wp-content/themes/GREYMedia/header.php",
+		"/E/OpenServer/domains/mirrina.local/templates/mirrina/index.php",
+		"/E/OpenServer/domains/mirrina.local/templates/mirrina/js/common.js",
+		"/E/OpenServer/domains/mirrina.local/obf.php"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 229.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"glob",
+			"options",
+			"multifeedback",
+			"end",
+			"right",
+			"whtie",
+			"развертка",
+			"<path",
+			"left",
+			"    ",
+			"ic_face_24px",
+			"action",
+			"borer",
+			"top",
+			"white",
+			"bottom",
+			"\n    ",
+			"название",
+			"3d7fba",
+			"definitnin",
+			"pug",
+			"blocks",
+			"sass",
+			"host",
+			"kMZLDg4L",
+			"password",
+			"user",
+			"com",
+			"shkafminsk",
+			"m",
+			"com",
+			"yourdomainname",
+			"com",
+			"h3",
+			".f-accordion-menu>li .accordion-open",
+			"title",
+			"div",
+			"h3",
+			"30;",
+			"font-size: 30;",
+			"font-size:",
+			"counter",
+			"counter pull-right",
+			"<li",
+			"readmore",
+			"RewriteBase /",
+			"com",
+			"https://",
+			"material-icons",
+			".mdl-typography {",
+			".mdl-typography",
+			".mdl-typography {",
+			"jump",
+			"btn-togg",
+			"toggle_mnu",
+			"100x80",
+			"196x171",
+			"//",
+			".gallery {",
+			"gallery.",
+			"div",
+			"style",
+			"wp-content",
+			"\"img/",
+			"src=\"",
+			"center",
+			"<img",
+			"img",
+			"time",
+			"_profession",
+			"1090px",
+			"spacing",
+			"30",
+			"src=\"#\"",
+			"__title",
+			"профессия",
+			"caption",
+			"password",
+			"mirrinac_new",
+			"user",
+			"captcha",
+			"193px",
+			".by-feedback .feedback textarea",
+			"arguments",
+			"event",
+			"selector",
+			"https:",
+			"https",
+			"http:",
+			"http",
+			"HTTP_HOST",
+			"27px",
+			"headline",
+			"bottom",
+			"clearfix",
+			"item-page",
+			"date",
+			"article-info",
+			"article-info-term",
+			"datePublished",
+			"mdl-layout__conte",
+			"date",
+			"datePublich",
+			"hdiv3",
+			"div",
+			"вшм",
+			"p",
+			"article",
+			"вшм",
+			"article",
+			"$k",
+			"mainmenu__list",
+			"sub",
+			"img/",
+			"MultiViews",
+			"php_value",
+			"AddHandler",
+			"ExecCGI",
+			"parilki.by",
+			"banisaun_db",
+			"img/",
+			"min",
+			"wrp-latest-news",
+			"id",
+			"selector",
+			"autoplayYoutube",
+			"timeout",
+			"ZIP"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"<path fill=\"white\"",
+			"http://",
+			"http://www.grey-media.com/wp-content",
+			"\"wp-content/uploads/2016/12/",
+			"src=\"wp-content/uploads/2016/12/img.jpg\"",
+			"__profession",
+			"src=\"img/.jpg\"",
+			"images/",
+			"FEEDBACK_BUTTONS",
+			"fin_table_passive",
+			"fin_table_active",
+			"fin_table_passive",
+			"infin_table_active",
+			"fin_table_active",
+			"",
+			"\"images/",
+			"setAttribute",
+			"</section></div>",
+			"</section>\\\\n</div>",
+			"</section>\\n</div>",
+			"<div><section class=\"reviews\">",
+			"Indefinite",
+			"services",
+			".table__span",
+			"a_verbs1",
+			"",
+			"table__a-verb",
+			"",
+			"\"tense\":",
+			"\"verb\":",
+			"\"",
+			").",
+			";",
+			"contact",
+			"textContent",
+			"images/",
+			"#{$mclass-main-block}",
+			"[php snippet=2]brands.png",
+			"[php snippet=2]/brands.png",
+			"[php snippet=2]/",
+			"",
+			"custom-categories",
+			"formatNewPrice",
+			"",
+			"\"jshop__steps-control-input\"",
+			"<span class=\"jshop__steps-required\">*</span>",
+			"<span class=\"jshop__steps-required>*</span>",
+			"\"jshop__steps-controls\"",
+			"\"jshop__steps-label-name\"",
+			"\"jshop__steps-control-group\"",
+			"jshop__steps-control-group",
+			"src=\"images",
+			"sel_crt=",
+			"",
+			"min_width",
+			"",
+			"Соль - по вкусу'",
+			"Соль - '",
+			"Соль - ",
+			"Яйца",
+			"Брокколи",
+			"make_id",
+			"elem",
+			"widget",
+			"data-url=\"images/variant",
+			"src=\"images/variant",
+			"data-url=\"images",
+			"src=\"images",
+			"$text",
+			"$hover",
+			"adaptive-menu__is-visible",
+			"adaptive-menu__is-hidden",
+			".adaptive-menu__is-hidden",
+			".adaptive-menu ",
+			".adaptive-menu",
+			".adaptive-menu-default ",
+			".adaptive-menu-default",
+			"h4.mdl-typography--subhead ",
+			"h4.mdl-typography--subhead",
+			"h2.mdl-typography--headline ",
+			"h3.mdl-typography--title ",
+			"h3.mdl-typography--title",
+			"l-flex l-valign c",
+			"",
+			"../images",
+			"\"",
+			"'",
+			"\"",
+			"'",
+			"\"",
+			"",
+			"SHKAFMINSK",
+			"shkafminsk",
+			"",
+			"pre"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "gulpfile.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5124,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								944,
+								944
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monocyanide.tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Theme - Piatto/icons/Langs/Gulpfile JS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 917,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1,
+								1
+							]
+						],
+						"settings":
+						{
+							"auto_complete": true,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										942,
+										943
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										0,
+										1
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Theme - Piatto/icons/Langs/npm JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": ".gitignore",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Theme - Piatto/icons/Langs/Git.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 52.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 263.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 227.0
+	},
+	"pinned_build_system": "",
+	"project": "plugin-boilerplate.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"gulpfile.js",
+				"gulpfile.js"
+			],
+			[
+				"demo.css",
+				"demo\\demo.css"
+			],
+			[
+				"varib",
+				"scss\\_variables.scss"
+			],
+			[
+				"gulp",
+				"gulpfile.js"
+			],
+			[
+				"jquery",
+				"scss\\jquery.multimenu.scss"
+			],
+			[
+				"conf",
+				"configuration.php"
+			],
+			[
+				"maimenu.scss",
+				"templates\\jpattern\\blocks\\mainmenu\\_mainmenu.scss"
+			],
+			[
+				"accordionmenu",
+				"templates\\jpattern\\dist\\css\\fantasy.accordionMenu.css"
+			],
+			[
+				"index.php",
+				"templates\\jpattern\\index.php"
+			],
+			[
+				"title.s",
+				"templates\\jpattern\\blocks\\title\\_title.scss"
+			],
+			[
+				"mixins.csss",
+				"templates\\jpattern\\blocks\\_mixins.scss"
+			],
+			[
+				"typogra",
+				"templates\\jpattern\\blocks\\typography\\_typography.scss"
+			],
+			[
+				"pagination.scss",
+				"templates\\jpattern\\blocks\\pagination\\_pagination.scss"
+			],
+			[
+				"adapti",
+				"dist\\css\\adaptive-menu.default.css"
+			],
+			[
+				"mainmenu.scss",
+				"blocks\\mainmenu\\_mainmenu.scss"
+			],
+			[
+				"0cal.js",
+				"templates\\jpattern\\dist\\js\\0call.js"
+			],
+			[
+				"jshop.scss",
+				"templates\\jpattern\\blocks\\jshop\\_jshop.scss"
+			],
+			[
+				"jshop_pro",
+				"templates\\jpattern\\blocks\\jshop\\_jshop__productfull.scss"
+			],
+			[
+				"pdocuts.html",
+				"templates\\jpattern\\node_modules\\weinre\\web\\doc\\UserInterface.html"
+			],
+			[
+				"mixins.css",
+				"templates\\jpattern\\blocks\\_mixins.scss"
+			],
+			[
+				"typograpy",
+				"templates\\jpattern\\blocks\\typography\\_typography.scss"
+			],
+			[
+				"titles.s",
+				"templates\\jpattern\\blocks\\title\\_title.scss"
+			],
+			[
+				"latest-news.css",
+				"templates\\jpattern\\blocks\\latest-news\\_latest-news.scss"
+			],
+			[
+				"phones.css",
+				"templates\\jpattern\\blocks\\phones\\_phones.scss"
+			],
+			[
+				"content-img.scss",
+				"templates\\jpattern\\blocks\\content-img\\_content-img.scss"
+			],
+			[
+				"blog.scss",
+				"templates\\jpattern\\blocks\\blog\\_blog.scss"
+			],
+			[
+				"gulpfjle.js",
+				"templates\\jpattern\\node_modules\\gulp-uglify\\node_modules\\uglify-js\\lib\\propmangle.js"
+			],
+			[
+				"block.scss",
+				"blocks\\infoblock\\_info-block.scss"
+			],
+			[
+				"layout.pug",
+				"layout.pug"
+			],
+			[
+				"gulpfi",
+				"gulpfile.js"
+			],
+			[
+				"h5b",
+				"blocks\\resets\\_h5bp.scss"
+			],
+			[
+				"bread",
+				"blocks\\breadcrumbs\\breadcrumbs.pug"
+			],
+			[
+				"grid.scss",
+				"blocks\\grid\\_grid.scss"
+			],
+			[
+				"seo.pug",
+				"blocks\\seo\\seo.pug"
+			],
+			[
+				"maimenus.s",
+				"blocks\\mainmenu\\_mainmenu.scss"
+			],
+			[
+				"title.scs",
+				"blocks\\title\\_title.scss"
+			],
+			[
+				"mixins.pug",
+				"blocks\\mixins.pug"
+			],
+			[
+				"con",
+				"contacts.pug"
+			],
+			[
+				"contact",
+				"app\\material-design-lite\\src\\chip\\snippets\\contact.html"
+			],
+			[
+				"phones.scss",
+				"blocks\\phones\\_phones.scss"
+			],
+			[
+				"contacs",
+				"contacts.pug"
+			],
+			[
+				"phones.pug",
+				"blocks\\phones\\phones.pug"
+			],
+			[
+				"layout_ove",
+				"blocks\\layout\\_layout_overrides.scss"
+			],
+			[
+				"maimenu.pug",
+				"blocks\\mainmenu\\mainmenu.pug"
+			],
+			[
+				"0call.js",
+				"dist\\js\\0call.js"
+			],
+			[
+				"call.js",
+				"node_modules\\pug-lexer\\test\\errors\\interpolated-call.json"
+			],
+			[
+				"variables",
+				"blocks\\_variables.scss"
+			],
+			[
+				"mainmenu.pug",
+				"blocks\\mainmenu\\mainmenu.pug"
+			],
+			[
+				"products.pug",
+				"products.pug"
+			],
+			[
+				"gallery.pug",
+				"blocks\\gallery\\gallery.pug"
+			],
+			[
+				"seo.scss",
+				"blocks\\seo\\_seo.scss"
+			],
+			[
+				"index.pug",
+				"index.pug"
+			],
+			[
+				"layout.scss",
+				"blocks\\layout\\_layout.scss"
+			],
+			[
+				"product",
+				"products.pug"
+			],
+			[
+				"typog",
+				"blocks\\typography\\_typography.scss"
+			],
+			[
+				"content-img",
+				"blocks\\content-img\\_content-img.scss"
+			],
+			[
+				"page.pug",
+				"templates\\page.pug"
+			],
+			[
+				"button.scss",
+				"blocks\\button\\_button.scss"
+			],
+			[
+				"style.scss",
+				"blocks\\style.scss"
+			],
+			[
+				"common.js",
+				"node_modules\\glob\\common.js"
+			],
+			[
+				"title.scss",
+				"blocks\\title\\_title.scss"
+			],
+			[
+				"titles.scss",
+				"node_modules\\pug-parser\\test\\cases\\filters.coffeescript.tokens.json"
+			],
+			[
+				"contacts.pug",
+				"contacts.pug"
+			],
+			[
+				"mixins.scss",
+				"blocks\\_mixins.scss"
+			],
+			[
+				"list.scss",
+				"blocks\\list\\_list.scss"
+			],
+			[
+				"content-img.pug",
+				"blocks\\content-img\\content-img.pug"
+			],
+			[
+				"patter.pug",
+				"pattern.pug"
+			],
+			[
+				"latest-news.scss",
+				"blocks\\latest-news\\_latest-news.scss"
+			],
+			[
+				"gallery.scss",
+				"blocks\\gallery\\_gallery.scss"
+			],
+			[
+				"table.scss",
+				"blocks\\table\\_table.scss"
+			],
+			[
+				"h5b.scss",
+				"blocks\\resets\\_h5bp.scss"
+			],
+			[
+				"dateblock",
+				"blocks\\dateblock\\_dateblock.scss"
+			],
+			[
+				"dateblock.pug",
+				"blocks\\dateblock\\dateblock.pug"
+			],
+			[
+				"text-block",
+				"blocks\\text-block\\text-block.pug"
+			],
+			[
+				"blockquote.scss",
+				"blocks\\blockquote\\_blockquote.scss"
+			],
+			[
+				"textblock.scss",
+				"blocks\\text-block\\_text-block.scss"
+			],
+			[
+				"textblo",
+				"blocks\\text-block\\text-block.pug"
+			],
+			[
+				"copyright.",
+				"blocks\\copyright\\_copyright.scss"
+			],
+			[
+				"footer.scss",
+				"blocks\\footer\\_mini_footer.scss"
+			],
+			[
+				"late",
+				"blocks\\latest-news\\_latest-news.scss"
+			],
+			[
+				"layout_over",
+				"blocks\\layout\\_layout_overrides.scss"
+			],
+			[
+				"latest",
+				"blocks\\latest-news\\latest-news.pug"
+			],
+			[
+				"latest-news",
+				"blocks\\latest-news\\_latest-news.scss"
+			],
+			[
+				"mixins",
+				"blocks\\_mixins.scss"
+			],
+			[
+				"vari",
+				"blocks\\_variables.scss"
+			],
+			[
+				"info-",
+				"blocks\\infoblock\\_info-block.scss"
+			],
+			[
+				"infoblock",
+				"blocks\\infoblock\\infoblock.pug"
+			],
+			[
+				"style.css",
+				"css\\style.css"
+			],
+			[
+				"lates-news",
+				"blocks\\latest-news\\_latest-news.scss"
+			],
+			[
+				"color-",
+				"blocks\\_color-definitions.scss"
+			],
+			[
+				"howto",
+				"howto.pug"
+			],
+			[
+				"layout_v",
+				"blocks\\layout\\_layout_overrides.scss"
+			],
+			[
+				"main-title.scss",
+				"app\\material-design-lite\\src\\icon-toggle\\_icon-toggle.scss"
+			],
+			[
+				"style.",
+				"blocks\\style.scss"
+			],
+			[
+				"titles.",
+				"blocks\\title\\_title.scss"
+			],
+			[
+				"mixins.sc",
+				"blocks\\_mixins.scss"
+			],
+			[
+				"mainblock.scss",
+				"blocks\\mainblock\\_main-block.scss"
+			],
+			[
+				"mainblock",
+				"blocks\\mainblock\\main-block.pug"
+			],
+			[
+				"color-def",
+				"blocks\\_color-definitions.scss"
+			],
+			[
+				"variables.ss",
+				"blocks\\_variables.scss"
+			],
+			[
+				"fonts.css",
+				"fonts\\fonts.woff.css"
+			],
+			[
+				"logo.scss",
+				"blocks\\logo\\_logo.scss"
+			],
+			[
+				"phone.scss",
+				"blocks\\phones\\_phones.scss"
+			],
+			[
+				"typogr",
+				"blocks\\typography\\_typography_overrides.scss"
+			],
+			[
+				"copyright.pug",
+				"blocks\\copyright\\copyright.pug"
+			],
+			[
+				"footer.pug",
+				"blocks\\footer\\footer.pug"
+			],
+			[
+				"layout.scs",
+				"blocks\\layout\\_layout.scss"
+			],
+			[
+				"gupfile.js",
+				"gulpfile.js"
+			],
+			[
+				"mainmenu",
+				"blocks\\mainmenu\\mainmenu.pug"
+			],
+			[
+				"layout_oe",
+				"blocks\\layout\\_layout_overrides.scss"
+			],
+			[
+				"layout.pg",
+				"blocks\\layout\\layout.pug"
+			],
+			[
+				"variables.sscs",
+				"blocks\\_variables.scss"
+			],
+			[
+				"grid",
+				"blocks\\grid\\_grid.scss"
+			],
+			[
+				"layout.s",
+				"blocks\\layout\\_layout.scss"
+			],
+			[
+				"form.scss",
+				"templates\\jpattern\\blocks\\form\\_form.scss"
+			],
+			[
+				"color-d",
+				"blocks\\_color-definitions.scss"
+			],
+			[
+				"template.scss",
+				"templates\\jpattern\\blocks\\template\\_template.scss"
+			],
+			[
+				"table.scs",
+				"blocks\\table\\_table.scss"
+			],
+			[
+				"app.js",
+				"dist\\js\\app.js"
+			],
+			[
+				"_va",
+				"templates\\jpattern\\blocks\\_variables.scss"
+			],
+			[
+				"layout_ov",
+				"templates\\jpattern\\blocks\\layout\\_layout_overrides.scss"
+			],
+			[
+				"variables.scss",
+				"templates\\jpattern\\blocks\\_variables.scss"
+			],
+			[
+				"mainbloc.scss",
+				"templates\\jpattern\\blocks\\mainblock\\_main-block.scss"
+			],
+			[
+				".bower",
+				"templates\\jpattern\\.bowerrc"
+			],
+			[
+				"textfie",
+				"templates\\jpattern\\blocks\\textfield\\_textfield.scss"
+			],
+			[
+				"textfiels.scss",
+				"templates\\jpattern\\node_modules\\convert-source-map\\test\\fixtures\\map-file-comment-double-slash.css"
+			],
+			[
+				"mixins.scs",
+				"templates\\jpattern\\blocks\\_mixins.scss"
+			],
+			[
+				"textfield.scss",
+				"templates\\jpattern\\blocks\\textfield\\_textfield.scss"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 741.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"E:\\OpenServer\\domains\\parilki.local\\parilki.sublime-workspace"
+			]
+		],
+		"width": 570.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 299.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

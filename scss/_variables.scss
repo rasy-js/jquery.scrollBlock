@@ -1,0 +1,8 @@
+@import "color-definitions";
+
+/*----------  Colors  ----------*/
+
+$pallete-primary: unquote("rgba(#{$pallete-one}, 1)");
+$pallete-accent: unquote("rgba(#{$pallete-two}, 1)");
+$pallete-text: unquote("rgba(#{$pallete-three}, 1)");
+

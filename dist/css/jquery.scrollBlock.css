@@ -1,0 +1,81 @@
+/*
+ * jQuery.scrollBlock plugin by Rasy 0.1.0
+ * https://github.com/rasy-js
+ *
+ * Author: Rasy
+ * Email: rasy.js@gmail.com
+ * Website: /
+ *
+ * Licensed under the MIT license.
+ * http://www.opensource.org/licenses/mit-license.php
+ */
+/*----------  Color definitions  ----------*/
+/*----------  Colors  ----------*/
+.btn-togg {
+  position: fixed;
+  top: 100px;
+}
+
+.is-hid {
+  max-height: 0 !important;
+  overflow: hidden;
+  margin: 0 !important;
+}
+
+.is-fix {
+  position: fixed;
+  height: 100%;
+  overflow-y: auto;
+  box-sizing: border-box;
+}
+
+.btn-togg {
+  position: fixed;
+  z-index: 100;
+  width: 115px;
+  height: 50px;
+  background-color: #e9e9e9;
+}
+
+.btn-togg span {
+  position: absolute;
+  top: 50%;
+  left: 0;
+  width: 36px;
+  height: 4px;
+  -webkit-transition: all .15s ease-out;
+  transition: all .15s ease-out;
+  pointer-events: none;
+  background: #0086ca;
+}
+
+.btn-togg span:hover {
+  opacity: .7;
+}
+
+.btn-togg span::before,
+.btn-togg span::after {
+  position: absolute;
+  left: 0;
+  width: 36px;
+  height: 4px;
+  content: '';
+  background: #0086ca;
+}
+
+.btn-togg span::before {
+  top: -10px;
+}
+
+.btn-togg span::after {
+  bottom: -10px;
+}
+
+.btn-togg span b {
+  font-size: 1.2em;
+  position: relative;
+  bottom: 10px;
+  display: inline-block;
+  margin-left: 45px;
+  text-transform: uppercase;
+}
