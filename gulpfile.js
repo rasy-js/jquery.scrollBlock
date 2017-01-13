@@ -2,7 +2,6 @@
 
 const gulp = require('gulp');
 const gutil = require('gulp-util');
-const svgSprite = require('gulp-svg-sprite');
 const autoprefixer = require('gulp-autoprefixer');
 const changed = require('gulp-changed');
 const cleanCSS = require('gulp-clean-css');
@@ -23,15 +22,6 @@ const browserSync = require('browser-sync').create();
 const clean = require('gulp-clean');
 const zip = require('gulp-zip');
 const glob = require('glob');
-
-/**
-
-  TODO:
-  - const pluginName = 'pluginName';
-  - Second todo item
-
- */
-
 
 /* Main bower files */
 
@@ -184,24 +174,5 @@ gulp.task('zip', function () {
     .pipe(zip('bak.zip'))
     .pipe(gulp.dest('.'))
     .pipe(notify('Zrobleno! Task zip!'));
-});
-
-
-gulp.task('svg', function () {
-
-  const config                  = {
-      mode                : {
-          css             : {
-              render      : {
-                  css     : true
-              }
-          }
-      }
-  };
-
-  return gulp.src('assets/svg/*.svg')
-    .pipe(svgSprite(config))
-    .pipe(gulp.dest('assets/svg-out'))
-    .pipe(notify('Zrobleno! Task svg!'));
 });
 

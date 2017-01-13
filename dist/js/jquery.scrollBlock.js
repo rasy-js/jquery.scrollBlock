@@ -19,6 +19,7 @@
       defaults = {
         blockWidth: undefined, // ширина блока
         blockHeight: undefined, // высота блока
+        footerHeight: 0, // вычесть высоту футера, если наезжает
         pointFixed: 100, // величина для фиксирования, если ноль то считается высота элемента и отступ от начала страницы
         top: 0, // отступ от начала страницы
         query: 840, // брейкпоинт для инитиализации
@@ -90,6 +91,7 @@
     fixElement: function(el, options) {
       if (options.viewportWidth < options.query || options.windowScroll < options.pointFixed) {
         $(el).removeAttr('style');
+        $(el).children().removeAttr('style');
         return;
       }
 
@@ -98,7 +100,7 @@
         'position': 'fixed',
         'top': options.top || 0,
         'width': options.blockWidth,
-        'height': options.blockHeight
+        'height': options.blockHeight - options.footerHeight
       });
 
       $(el).children().css('padding-bottom', options.paddingBottom);
