@@ -1,8 +1,8 @@
 # scrollBlock
 
-## Примерная разметка
+## Html
 
-Главный блок на который вызывается плагин должен иметь одного ребенка.
+Главный блок на который вызывается плагин должен иметь обязательного ребенка.
 
 ```
 <div class="block-class">
@@ -12,10 +12,11 @@
 </div>
 ```
 
-## Html
+```html
 <link rel="stylesheet" href="dist/css/jquery.scrollBlock.min.css">
 <script src="//code.jquery.com/jquery-latest.js"></script>
 <script src="dist/js/jquery.scrollBlock.min.js"></script>
+```
 
 ## Вызов
 
