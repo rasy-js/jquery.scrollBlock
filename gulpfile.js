@@ -70,7 +70,7 @@ gulp.task('js', function() {
   return gulp.src(['dist/js/*.js', '!dist/js/jquery.js', '!dist/js/mdlComponentHandler.js'])
     .pipe(plumber({errorHandler: notify.onError("Error: <%= error.message %>")}))
     //.pipe(concat('vendor.js'))
-    //.pipe(gulp.dest('dist/js'))
+    .pipe(gulp.dest('dist/js'))
     .pipe(uglify())
     .pipe(rename('jquery.scrollBlock.min.js'))
     .pipe(gulp.dest('dist/js'))
